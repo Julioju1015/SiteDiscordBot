@@ -1,2 +1,6 @@
 # SiteDiscordBot
-Se site et un open source fait par julioju#7775 Un open source pour son bot discord !
+Bonjour aujoud'hui j'ai crée un open source pour faire un site pour votre bot discord!
+
+Il n'est pas fini une page commande arrive.
+
+Cordialement Julioju
